@@ -1,6 +1,6 @@
 Name:		texlive-statmath
 Version:	46925
-Release:	1
+Release:	2
 Summary:	A LaTeX package for simple use of statistical notation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/statmath
