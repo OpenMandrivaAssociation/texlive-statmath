@@ -3,7 +3,7 @@ Version:	46925
 Release:	2
 Summary:	A LaTeX package for simple use of statistical notation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/statmath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/statmath
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/statmath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/statmath.doc.r%{version}.tar.xz
